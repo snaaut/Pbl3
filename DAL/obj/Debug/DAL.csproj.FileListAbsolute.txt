@@ -1,0 +1,72 @@
+C:\Users\lehoa\source\repos\PBL3\DAL\bin\Debug\DAL.dll
+C:\Users\lehoa\source\repos\PBL3\DAL\bin\Debug\DAL.pdb
+C:\Users\lehoa\source\repos\PBL3\DAL\bin\Debug\DTO.dll
+C:\Users\lehoa\source\repos\PBL3\DAL\bin\Debug\DTO.pdb
+C:\Users\lehoa\source\repos\PBL3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lehoa\source\repos\PBL3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lehoa\source\repos\PBL3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\lehoa\source\repos\PBL3\DAL\obj\Debug\DAL.dll
+C:\Users\lehoa\source\repos\PBL3\DAL\obj\Debug\DAL.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DAL.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DAL.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DTO.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DTO.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DAL.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DAL.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DTO.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\bin\Debug\DTO.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\DAL\obj\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\DAL\obj\Debug\DAL.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\bin\Debug\DAL.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\bin\Debug\DAL.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\bin\Debug\DTO.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\bin\Debug\DTO.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\obj\Debug\DAL.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\DAL\obj\Debug\DAL.pdb
+C:\Users\lehoa\Downloads\PBL3-\DAL\bin\Debug\DAL.dll
+C:\Users\lehoa\Downloads\PBL3-\DAL\bin\Debug\DAL.pdb
+C:\Users\lehoa\Downloads\PBL3-\DAL\bin\Debug\DTO.dll
+C:\Users\lehoa\Downloads\PBL3-\DAL\bin\Debug\DTO.pdb
+C:\Users\lehoa\Downloads\PBL3-\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lehoa\Downloads\PBL3-\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lehoa\Downloads\PBL3-\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\lehoa\Downloads\PBL3-\DAL\obj\Debug\DAL.dll
+C:\Users\lehoa\Downloads\PBL3-\DAL\obj\Debug\DAL.pdb
+D:\PBL3\PBL3Moi\PBL3-\DAL\bin\Debug\DAL.dll
+D:\PBL3\PBL3Moi\PBL3-\DAL\bin\Debug\DAL.pdb
+D:\PBL3\PBL3Moi\PBL3-\DAL\bin\Debug\DTO.dll
+D:\PBL3\PBL3Moi\PBL3-\DAL\bin\Debug\DTO.pdb
+D:\PBL3\PBL3Moi\PBL3-\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PBL3\PBL3Moi\PBL3-\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL3Moi\PBL3-\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PBL3\PBL3Moi\PBL3-\DAL\obj\Debug\DAL.dll
+D:\PBL3\PBL3Moi\PBL3-\DAL\obj\Debug\DAL.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\bin\Debug\DAL.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\bin\Debug\DAL.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\bin\Debug\DTO.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\bin\Debug\DTO.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\obj\Debug\DAL.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\DAL\obj\Debug\DAL.pdb

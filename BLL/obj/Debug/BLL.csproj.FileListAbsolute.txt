@@ -1,0 +1,88 @@
+C:\Users\lehoa\source\repos\PBL3\BLL\bin\Debug\BLL.dll
+C:\Users\lehoa\source\repos\PBL3\BLL\bin\Debug\BLL.pdb
+C:\Users\lehoa\source\repos\PBL3\BLL\bin\Debug\DAL.dll
+C:\Users\lehoa\source\repos\PBL3\BLL\bin\Debug\DTO.dll
+C:\Users\lehoa\source\repos\PBL3\BLL\bin\Debug\DAL.pdb
+C:\Users\lehoa\source\repos\PBL3\BLL\bin\Debug\DTO.pdb
+C:\Users\lehoa\source\repos\PBL3\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\lehoa\source\repos\PBL3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\lehoa\source\repos\PBL3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\lehoa\source\repos\PBL3\BLL\obj\Debug\BLL.dll
+C:\Users\lehoa\source\repos\PBL3\BLL\obj\Debug\BLL.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\BLL.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\BLL.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DAL.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DTO.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DAL.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DTO.pdb
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.dll
+C:\Users\Le\Downloads\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\BLL.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\BLL.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DAL.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DTO.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DAL.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\bin\Debug\DTO.pdb
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.dll
+D:\tai lieu Le\PBL3\PBL27\5\PBL3-27-5\PBL3\BLL\obj\Debug\BLL.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\bin\Debug\BLL.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\bin\Debug\BLL.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\obj\Debug\BLL.dll
+C:\Users\ADMIN\Downloads\PBL30-5Ledethuon\PBL3\BLL\obj\Debug\BLL.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\bin\Debug\BLL.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\bin\Debug\BLL.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\bin\Debug\DAL.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\bin\Debug\DTO.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\bin\Debug\DAL.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\bin\Debug\DTO.pdb
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\obj\Debug\BLL.dll
+D:\PBL3\PBL30-5Ledethuon\PBL3-\BLL\obj\Debug\BLL.pdb
+C:\Users\lehoa\Downloads\PBL3-\BLL\bin\Debug\BLL.dll
+C:\Users\lehoa\Downloads\PBL3-\BLL\bin\Debug\BLL.pdb
+C:\Users\lehoa\Downloads\PBL3-\BLL\bin\Debug\DAL.dll
+C:\Users\lehoa\Downloads\PBL3-\BLL\bin\Debug\DTO.dll
+C:\Users\lehoa\Downloads\PBL3-\BLL\bin\Debug\DAL.pdb
+C:\Users\lehoa\Downloads\PBL3-\BLL\bin\Debug\DTO.pdb
+C:\Users\lehoa\Downloads\PBL3-\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\lehoa\Downloads\PBL3-\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\lehoa\Downloads\PBL3-\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\lehoa\Downloads\PBL3-\BLL\obj\Debug\BLL.dll
+C:\Users\lehoa\Downloads\PBL3-\BLL\obj\Debug\BLL.pdb
+D:\PBL3\PBL3Moi\PBL3-\BLL\bin\Debug\BLL.dll
+D:\PBL3\PBL3Moi\PBL3-\BLL\bin\Debug\BLL.pdb
+D:\PBL3\PBL3Moi\PBL3-\BLL\bin\Debug\DAL.dll
+D:\PBL3\PBL3Moi\PBL3-\BLL\bin\Debug\DTO.dll
+D:\PBL3\PBL3Moi\PBL3-\BLL\bin\Debug\DAL.pdb
+D:\PBL3\PBL3Moi\PBL3-\BLL\bin\Debug\DTO.pdb
+D:\PBL3\PBL3Moi\PBL3-\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\PBL3\PBL3Moi\PBL3-\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL3Moi\PBL3-\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PBL3\PBL3Moi\PBL3-\BLL\obj\Debug\BLL.dll
+D:\PBL3\PBL3Moi\PBL3-\BLL\obj\Debug\BLL.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\bin\Debug\BLL.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\bin\Debug\BLL.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\bin\Debug\DAL.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\bin\Debug\DTO.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\bin\Debug\DAL.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\bin\Debug\DTO.pdb
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\obj\Debug\BLL.dll
+C:\Users\win\Downloads\PBL3--20220630T110403Z-001\PBL3-\BLL\obj\Debug\BLL.pdb
